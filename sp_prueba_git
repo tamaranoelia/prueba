@@ -1,0 +1,4 @@
+CREATE OR REPLACE PROCEDURE SP_PRUEBA_GIT AS
+BEGIN
+  dbms_output.put_line('Probando la funcionalidad de Git en SQL Developer');
+END SP_PRUEBA_GIT;
